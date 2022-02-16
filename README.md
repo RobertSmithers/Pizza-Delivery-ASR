@@ -6,8 +6,8 @@ In this hackathon, I built an ASR system capable of recognize speech in the form
 
 My two submission files include: 
 
-* your best performing language model (`best.lm`)
-* your best performing lexicon (`best.dic`)
+* my best performing language model (`best.lm`)
+* my best performing lexicon (`best.dic`)
 
 Final submissions are tested on a separate test set of recordings and transcriptions that is similar but not identical to the development set given. 
 
